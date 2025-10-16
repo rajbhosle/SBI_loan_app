@@ -1,11 +1,14 @@
 package in.ashokit;
 
-/**
- * Hello world!
- */
+
+  Hello world!
+ 
 public class App {
     public static void main(String[] args) {
+
         int a = 20;
-        System.out.println("Hello World!");
+
+        String s = "Raj";
+       System.out.println("Hello World!");
     }
 }
