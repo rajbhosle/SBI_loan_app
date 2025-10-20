@@ -5,6 +5,7 @@ package in.ashokit;
  */
 public class App {
     public static void main(String[] args) {
+        String S = "Raj";
         System.out.println("Hello World!");
     }
 }
